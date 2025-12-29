@@ -1,0 +1,1 @@
+# -strip-a-set-of-characters-from-a-string.
